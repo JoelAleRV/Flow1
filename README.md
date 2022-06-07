@@ -1,5 +1,5 @@
-# flow1
-Este repositorio contiene el flow 1, el cual se actualizará con el plugin de GitHub para Visual Studio Code.
+# Flow1
+Este repositorio contiene el flow 1 hecho en Node-RED, el cual se actualizará con el plugin de GitHub para Visual Studio Code.
 
 
 -> Acciones realizadas en la fecha 02/06/2022:
