@@ -1,4 +1,4 @@
-# Flow1
+# Flow 1
 Este repositorio contiene el flow 1 hecho en Node-RED, el cual se actualizará con el plugin de GitHub para Visual Studio Code.
 
 
